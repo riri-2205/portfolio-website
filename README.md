@@ -4,7 +4,7 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 It showcases my skills, projects, resume, and contact information.
 
 ## 🔗 Live Demo
-[View Website](https://yourusername.github.io/portfolio-website)
+[View Website](https://riri-2205.github.io/portfolio-website/)
 
 ## 📁 Features
 - Responsive layout
